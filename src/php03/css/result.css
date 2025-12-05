@@ -1,0 +1,38 @@
+.result__content{
+    margin: 0 auto;
+    padding: 60px 15px;
+    max-width: 1230px;
+}
+
+.result{
+    text-align: center;
+}
+
+.result__text-correct{
+    color: #ff0000;
+}
+
+.result__text-incorrect{
+    color: #0000ff;
+}
+
+.answer-table{
+    border: 3px solid #000;
+}
+
+.answer-table__inner{
+    width: 100%;
+}
+
+.answer-table__header{
+    padding: 15px;
+    width: 20%;
+    border: 0.5px solid #000;
+    background: #ddd;
+    font-weight: bold;
+}
+
+.answer-table__text{
+    padding: 15px;
+    border: 1px solid #000;
+}
